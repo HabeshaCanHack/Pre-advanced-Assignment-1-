@@ -1,0 +1,21 @@
+body{
+  padding: 5px 10px auto 10px;
+  margin: 5px 10px;
+  background-color: lightpink;
+}
+h1{
+  text-align: center;
+  color: green;
+}
+.container{
+padding: 0% 0% 5% 40%;
+}
+fieldset{
+  text-align: center;
+  width: 30%;
+  background-color: lightgray;
+}
+section{
+  padding: 0px;
+  margin: 0px;
+}
